@@ -1,0 +1,35 @@
+Nova Leisure Group — Demand Model Accuracy (28-day holdout)
+======================================================================
+
+Per-site accuracy:
+Site_Code                Site_Name         Model   RMSE    MAE  MAPE
+     S001       Nova London Bridge   HoltWinters 629.78 565.98 11.88
+     S001       Nova London Bridge         ARIMA 655.42 591.34 12.35
+     S001       Nova London Bridge SeasonalNaive 793.34 723.46 15.18
+     S002  Nova Manchester Arndale   HoltWinters 528.60 473.70 13.97
+     S002  Nova Manchester Arndale         ARIMA 504.68 444.96 12.93
+     S002  Nova Manchester Arndale SeasonalNaive 666.80 538.29 14.90
+     S003 Nova Birmingham Bullring   HoltWinters 425.76 363.44  9.64
+     S003 Nova Birmingham Bullring         ARIMA 432.58 365.16  9.55
+     S003 Nova Birmingham Bullring SeasonalNaive 493.96 431.32 11.50
+     S004       Nova Bristol Cabot   HoltWinters 366.44 300.34 11.56
+     S004       Nova Bristol Cabot         ARIMA 355.44 295.57 11.35
+     S004       Nova Bristol Cabot SeasonalNaive 452.99 383.29 15.10
+     S005   Nova Edinburgh Princes   HoltWinters 322.06 251.94  8.18
+     S005   Nova Edinburgh Princes         ARIMA 327.61 261.57  8.55
+     S005   Nova Edinburgh Princes SeasonalNaive 402.02 329.61 11.22
+
+Best model per site & Ljung-Box residual whiteness (p > 0.05 = white noise):
+Site_Code  Best_Model  LjungBox_p_lag14
+     S001 HoltWinters             0.000
+     S002       ARIMA             0.001
+     S003       ARIMA             0.012
+     S004       ARIMA             0.009
+     S005 HoltWinters             0.004
+
+Group-level average accuracy (ranked):
+                 RMSE     MAE   MAPE
+Model                               
+ARIMA          455.15  391.72  10.95
+HoltWinters    454.53  391.08  11.04
+SeasonalNaive  561.82  481.19  13.58

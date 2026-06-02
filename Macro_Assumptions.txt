@@ -1,0 +1,83 @@
+================================================================
+NOVA LEISURE GROUP — FP&A MACRO ASSUMPTIONS PACK
+Author: Amogh H.H., Commercial Finance
+Last refreshed: 26 May 2026
+Source: ONS, BRC-Sensormatic, Bank of England
+================================================================
+
+1. UK CONSUMER PRICE INFLATION (CPI)
+------------------------------------------------
+Headline CPI (YoY):
+  Apr 2026 ............... 2.8%   (latest print)
+  Mar 2026 ............... 3.3%
+  Feb 2026 ............... 3.0%   (est.)
+  Jan 2026 ............... 3.0%   (est.)
+
+CPIH (incl. owner-occupier housing): 3.0% (Apr-26)
+Core CPI (ex food/energy/alcohol/tobacco): 2.5% (Apr-26)
+
+Key driver of Apr-26 moderation:
+  - Ofgem energy price cap reset on 1 Apr-26 cut housing &
+    household services inflation from 5.3% to 1.4% YoY.
+
+BoE forward path (consensus):
+  CY26 average CPI ........ 2.7%
+  CY27 average CPI ........ 2.2%
+  Terminal Bank Rate ...... 3.75% by Q4-26
+
+================================================================
+2. UK RETAIL & LEISURE FOOTFALL — BRC/SENSORMATIC
+------------------------------------------------
+Total UK footfall, YoY change:
+  Apr 2026 ............... -10.7%   (driven by weather + Easter timing)
+  Feb 2026 ............... -4.7%
+  Jan 2026 ............... -0.6%
+  Dec 2025 ............... -2.9%
+
+By location type (Apr-26 YoY):
+  High Street ............ -9.2%
+  Retail Parks ........... -9.0%
+  Shopping Centres ....... -10.1%
+
+Trend signal:
+  - Consumer cautious; discretionary trade-down behaviour
+    persistent into Q2-26.
+  - Retail Parks outperforming High Street and Shopping
+    Centres on a relative basis (better car access, value
+    anchor tenants).
+
+================================================================
+3. WAGE & OPERATING COST DRIVERS
+------------------------------------------------
+National Living Wage (effective Apr-26): £12.21/hr (age 21+)
+  -> +6.7% YoY increase, full-year wage bill impact ~+5.4%
+     for a typical UK leisure operator (50% labour cost ratio).
+
+Energy unit cost (commercial blended):
+  Standing: 49p/day  |  Unit: 24.5p/kWh (Apr-26 cap)
+  Forward 6-month strip: -3% to -5% vs Apr-26.
+
+Commercial rent (multi-site retail/leisure):
+  Open market review uplift assumption: CPI + 1.0% capped at 4%.
+
+================================================================
+4. SCENARIO ASSUMPTIONS (used in FY26 Rolling Forecast)
+------------------------------------------------
+                       BEAR        BASE        BULL
+CPI inflation .......  3.5%        2.7%        2.2%
+Wage bill uplift ....  +7.0%       +5.4%       +4.0%
+Footfall growth .....  -6.0%       -2.0%       +1.5%
+Like-for-like sales..  -4.5%       -1.0%       +3.0%
+Energy unit cost ....  +5.0%       -3.0%       -6.0%
+Probability weight..   25%         50%         25%
+
+================================================================
+5. SOURCES
+------------------------------------------------
+- ONS CPI Bulletin, April 2026
+  https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026
+- BRC-Sensormatic Footfall Monitor, Apr 2026
+  https://brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/mounting-pressure-on-retail-as-footfall-takes-sharp-decline/
+- Bank of England Monetary Policy Report, May 2026
+  https://www.bankofengland.co.uk/monetary-policy-report
+================================================================

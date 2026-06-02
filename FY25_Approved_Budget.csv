@@ -1,0 +1,241 @@
+Account_Code,Description,Category,Period,Budget_GBP
+4000,Food & Beverage Revenue,Revenue,FY25-01,527000
+4000,Food & Beverage Revenue,Revenue,FY25-02,508400
+4000,Food & Beverage Revenue,Revenue,FY25-03,558000
+4000,Food & Beverage Revenue,Revenue,FY25-04,620000
+4000,Food & Beverage Revenue,Revenue,FY25-05,682000
+4000,Food & Beverage Revenue,Revenue,FY25-06,651000
+4000,Food & Beverage Revenue,Revenue,FY25-07,744000
+4000,Food & Beverage Revenue,Revenue,FY25-08,775000
+4000,Food & Beverage Revenue,Revenue,FY25-09,620000
+4000,Food & Beverage Revenue,Revenue,FY25-10,589000
+4000,Food & Beverage Revenue,Revenue,FY25-11,651000
+4000,Food & Beverage Revenue,Revenue,FY25-12,868000
+4010,Retail Merchandise Revenue,Revenue,FY25-01,147000
+4010,Retail Merchandise Revenue,Revenue,FY25-02,157500
+4010,Retail Merchandise Revenue,Revenue,FY25-03,178500
+4010,Retail Merchandise Revenue,Revenue,FY25-04,199500
+4010,Retail Merchandise Revenue,Revenue,FY25-05,210000
+4010,Retail Merchandise Revenue,Revenue,FY25-06,210000
+4010,Retail Merchandise Revenue,Revenue,FY25-07,220500
+4010,Retail Merchandise Revenue,Revenue,FY25-08,220500
+4010,Retail Merchandise Revenue,Revenue,FY25-09,199500
+4010,Retail Merchandise Revenue,Revenue,FY25-10,220500
+4010,Retail Merchandise Revenue,Revenue,FY25-11,252000
+4010,Retail Merchandise Revenue,Revenue,FY25-12,346500
+4020,Entertainment Revenue,Revenue,FY25-01,323000
+4020,Entertainment Revenue,Revenue,FY25-02,311600
+4020,Entertainment Revenue,Revenue,FY25-03,342000
+4020,Entertainment Revenue,Revenue,FY25-04,380000
+4020,Entertainment Revenue,Revenue,FY25-05,418000
+4020,Entertainment Revenue,Revenue,FY25-06,399000
+4020,Entertainment Revenue,Revenue,FY25-07,456000
+4020,Entertainment Revenue,Revenue,FY25-08,475000
+4020,Entertainment Revenue,Revenue,FY25-09,380000
+4020,Entertainment Revenue,Revenue,FY25-10,361000
+4020,Entertainment Revenue,Revenue,FY25-11,399000
+4020,Entertainment Revenue,Revenue,FY25-12,532000
+4030,Membership Revenue,Revenue,FY25-01,145000
+4030,Membership Revenue,Revenue,FY25-02,145000
+4030,Membership Revenue,Revenue,FY25-03,145000
+4030,Membership Revenue,Revenue,FY25-04,145000
+4030,Membership Revenue,Revenue,FY25-05,145000
+4030,Membership Revenue,Revenue,FY25-06,145000
+4030,Membership Revenue,Revenue,FY25-07,145000
+4030,Membership Revenue,Revenue,FY25-08,145000
+4030,Membership Revenue,Revenue,FY25-09,145000
+4030,Membership Revenue,Revenue,FY25-10,145000
+4030,Membership Revenue,Revenue,FY25-11,145000
+4030,Membership Revenue,Revenue,FY25-12,145000
+4040,Events & Hire Revenue,Revenue,FY25-01,55200
+4040,Events & Hire Revenue,Revenue,FY25-02,64400
+4040,Events & Hire Revenue,Revenue,FY25-03,78200
+4040,Events & Hire Revenue,Revenue,FY25-04,92000
+4040,Events & Hire Revenue,Revenue,FY25-05,101200
+4040,Events & Hire Revenue,Revenue,FY25-06,110400
+4040,Events & Hire Revenue,Revenue,FY25-07,105800
+4040,Events & Hire Revenue,Revenue,FY25-08,87400
+4040,Events & Hire Revenue,Revenue,FY25-09,96600
+4040,Events & Hire Revenue,Revenue,FY25-10,101200
+4040,Events & Hire Revenue,Revenue,FY25-11,110400
+4040,Events & Hire Revenue,Revenue,FY25-12,147200
+5000,Cost of Goods Sold - F&B,COGS,FY25-01,-168300
+5000,Cost of Goods Sold - F&B,COGS,FY25-02,-162360
+5000,Cost of Goods Sold - F&B,COGS,FY25-03,-178200
+5000,Cost of Goods Sold - F&B,COGS,FY25-04,-198000
+5000,Cost of Goods Sold - F&B,COGS,FY25-05,-217800
+5000,Cost of Goods Sold - F&B,COGS,FY25-06,-207900
+5000,Cost of Goods Sold - F&B,COGS,FY25-07,-237600
+5000,Cost of Goods Sold - F&B,COGS,FY25-08,-247500
+5000,Cost of Goods Sold - F&B,COGS,FY25-09,-198000
+5000,Cost of Goods Sold - F&B,COGS,FY25-10,-188100
+5000,Cost of Goods Sold - F&B,COGS,FY25-11,-207900
+5000,Cost of Goods Sold - F&B,COGS,FY25-12,-277200
+5010,Cost of Goods Sold - Retail,COGS,FY25-01,-80500
+5010,Cost of Goods Sold - Retail,COGS,FY25-02,-86250
+5010,Cost of Goods Sold - Retail,COGS,FY25-03,-97750
+5010,Cost of Goods Sold - Retail,COGS,FY25-04,-109250
+5010,Cost of Goods Sold - Retail,COGS,FY25-05,-115000
+5010,Cost of Goods Sold - Retail,COGS,FY25-06,-115000
+5010,Cost of Goods Sold - Retail,COGS,FY25-07,-120750
+5010,Cost of Goods Sold - Retail,COGS,FY25-08,-120750
+5010,Cost of Goods Sold - Retail,COGS,FY25-09,-109250
+5010,Cost of Goods Sold - Retail,COGS,FY25-10,-120750
+5010,Cost of Goods Sold - Retail,COGS,FY25-11,-138000
+5010,Cost of Goods Sold - Retail,COGS,FY25-12,-189750
+6000,Wages & Salaries,OPEX_Wages,FY25-01,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-02,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-03,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-04,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-05,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-06,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-07,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-08,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-09,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-10,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-11,-385000
+6000,Wages & Salaries,OPEX_Wages,FY25-12,-385000
+6010,Employer NI & Pension,OPEX_Wages,FY25-01,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-02,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-03,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-04,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-05,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-06,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-07,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-08,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-09,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-10,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-11,-52000
+6010,Employer NI & Pension,OPEX_Wages,FY25-12,-52000
+6100,Property Rent,OPEX_Fixed,FY25-01,-140000
+6100,Property Rent,OPEX_Fixed,FY25-02,-140000
+6100,Property Rent,OPEX_Fixed,FY25-03,-140000
+6100,Property Rent,OPEX_Fixed,FY25-04,-140000
+6100,Property Rent,OPEX_Fixed,FY25-05,-140000
+6100,Property Rent,OPEX_Fixed,FY25-06,-140000
+6100,Property Rent,OPEX_Fixed,FY25-07,-140000
+6100,Property Rent,OPEX_Fixed,FY25-08,-140000
+6100,Property Rent,OPEX_Fixed,FY25-09,-140000
+6100,Property Rent,OPEX_Fixed,FY25-10,-140000
+6100,Property Rent,OPEX_Fixed,FY25-11,-140000
+6100,Property Rent,OPEX_Fixed,FY25-12,-140000
+6110,Business Rates,OPEX_Fixed,FY25-01,-41000
+6110,Business Rates,OPEX_Fixed,FY25-02,-41000
+6110,Business Rates,OPEX_Fixed,FY25-03,-41000
+6110,Business Rates,OPEX_Fixed,FY25-04,-41000
+6110,Business Rates,OPEX_Fixed,FY25-05,-41000
+6110,Business Rates,OPEX_Fixed,FY25-06,-41000
+6110,Business Rates,OPEX_Fixed,FY25-07,-41000
+6110,Business Rates,OPEX_Fixed,FY25-08,-41000
+6110,Business Rates,OPEX_Fixed,FY25-09,-41000
+6110,Business Rates,OPEX_Fixed,FY25-10,-41000
+6110,Business Rates,OPEX_Fixed,FY25-11,-41000
+6110,Business Rates,OPEX_Fixed,FY25-12,-41000
+6200,Utilities - Electricity,OPEX_Variable,FY25-01,-45900
+6200,Utilities - Electricity,OPEX_Variable,FY25-02,-44200
+6200,Utilities - Electricity,OPEX_Variable,FY25-03,-39100
+6200,Utilities - Electricity,OPEX_Variable,FY25-04,-32300
+6200,Utilities - Electricity,OPEX_Variable,FY25-05,-27200
+6200,Utilities - Electricity,OPEX_Variable,FY25-06,-25500
+6200,Utilities - Electricity,OPEX_Variable,FY25-07,-23800
+6200,Utilities - Electricity,OPEX_Variable,FY25-08,-23800
+6200,Utilities - Electricity,OPEX_Variable,FY25-09,-28900
+6200,Utilities - Electricity,OPEX_Variable,FY25-10,-34000
+6200,Utilities - Electricity,OPEX_Variable,FY25-11,-40800
+6200,Utilities - Electricity,OPEX_Variable,FY25-12,-45900
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-01,-14850
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-02,-14300
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-03,-12650
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-04,-10450
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-05,-8800
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-06,-8250
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-07,-7700
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-08,-7700
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-09,-9350
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-10,-11000
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-11,-13200
+6210,Utilities - Gas/Water,OPEX_Variable,FY25-12,-14850
+6300,Marketing & Promotions,OPEX_Variable,FY25-01,-16800
+6300,Marketing & Promotions,OPEX_Variable,FY25-02,-19600
+6300,Marketing & Promotions,OPEX_Variable,FY25-03,-23800
+6300,Marketing & Promotions,OPEX_Variable,FY25-04,-28000
+6300,Marketing & Promotions,OPEX_Variable,FY25-05,-30800
+6300,Marketing & Promotions,OPEX_Variable,FY25-06,-33600
+6300,Marketing & Promotions,OPEX_Variable,FY25-07,-32200
+6300,Marketing & Promotions,OPEX_Variable,FY25-08,-26600
+6300,Marketing & Promotions,OPEX_Variable,FY25-09,-29400
+6300,Marketing & Promotions,OPEX_Variable,FY25-10,-30800
+6300,Marketing & Promotions,OPEX_Variable,FY25-11,-33600
+6300,Marketing & Promotions,OPEX_Variable,FY25-12,-44800
+6400,Repairs & Maintenance,OPEX_Variable,FY25-01,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-02,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-03,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-04,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-05,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-06,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-07,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-08,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-09,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-10,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-11,-18000
+6400,Repairs & Maintenance,OPEX_Variable,FY25-12,-18000
+6500,IT & Software Licences,OPEX_Fixed,FY25-01,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-02,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-03,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-04,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-05,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-06,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-07,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-08,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-09,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-10,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-11,-14000
+6500,IT & Software Licences,OPEX_Fixed,FY25-12,-14000
+6600,Insurance,OPEX_Fixed,FY25-01,-9000
+6600,Insurance,OPEX_Fixed,FY25-02,-9000
+6600,Insurance,OPEX_Fixed,FY25-03,-9000
+6600,Insurance,OPEX_Fixed,FY25-04,-9000
+6600,Insurance,OPEX_Fixed,FY25-05,-9000
+6600,Insurance,OPEX_Fixed,FY25-06,-9000
+6600,Insurance,OPEX_Fixed,FY25-07,-9000
+6600,Insurance,OPEX_Fixed,FY25-08,-9000
+6600,Insurance,OPEX_Fixed,FY25-09,-9000
+6600,Insurance,OPEX_Fixed,FY25-10,-9000
+6600,Insurance,OPEX_Fixed,FY25-11,-9000
+6600,Insurance,OPEX_Fixed,FY25-12,-9000
+6700,Professional Fees,OPEX_Variable,FY25-01,-7500
+6700,Professional Fees,OPEX_Variable,FY25-02,-7500
+6700,Professional Fees,OPEX_Variable,FY25-03,-7500
+6700,Professional Fees,OPEX_Variable,FY25-04,-7500
+6700,Professional Fees,OPEX_Variable,FY25-05,-7500
+6700,Professional Fees,OPEX_Variable,FY25-06,-7500
+6700,Professional Fees,OPEX_Variable,FY25-07,-7500
+6700,Professional Fees,OPEX_Variable,FY25-08,-7500
+6700,Professional Fees,OPEX_Variable,FY25-09,-7500
+6700,Professional Fees,OPEX_Variable,FY25-10,-7500
+6700,Professional Fees,OPEX_Variable,FY25-11,-7500
+6700,Professional Fees,OPEX_Variable,FY25-12,-7500
+7000,Depreciation,Non-Cash,FY25-01,-42000
+7000,Depreciation,Non-Cash,FY25-02,-42000
+7000,Depreciation,Non-Cash,FY25-03,-42000
+7000,Depreciation,Non-Cash,FY25-04,-42000
+7000,Depreciation,Non-Cash,FY25-05,-42000
+7000,Depreciation,Non-Cash,FY25-06,-42000
+7000,Depreciation,Non-Cash,FY25-07,-42000
+7000,Depreciation,Non-Cash,FY25-08,-42000
+7000,Depreciation,Non-Cash,FY25-09,-42000
+7000,Depreciation,Non-Cash,FY25-10,-42000
+7000,Depreciation,Non-Cash,FY25-11,-42000
+7000,Depreciation,Non-Cash,FY25-12,-42000
+7100,Bank Interest,Finance,FY25-01,-8500
+7100,Bank Interest,Finance,FY25-02,-8500
+7100,Bank Interest,Finance,FY25-03,-8500
+7100,Bank Interest,Finance,FY25-04,-8500
+7100,Bank Interest,Finance,FY25-05,-8500
+7100,Bank Interest,Finance,FY25-06,-8500
+7100,Bank Interest,Finance,FY25-07,-8500
+7100,Bank Interest,Finance,FY25-08,-8500
+7100,Bank Interest,Finance,FY25-09,-8500
+7100,Bank Interest,Finance,FY25-10,-8500
+7100,Bank Interest,Finance,FY25-11,-8500
+7100,Bank Interest,Finance,FY25-12,-8500
