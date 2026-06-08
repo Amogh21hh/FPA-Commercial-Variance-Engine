@@ -136,27 +136,9 @@ Ljung-Box p-values are all < 0.05, meaning the residuals retain some structure (
 
 The Assumptions tab is fully data-validation toggled — switching between Bear / Base / Bull recalculates the rolling forecast in place.
 
----
-
-## 8. How to run
-
-### Refresh the model end-to-end
-
-```bash
-# 1. Regenerate the raw datasets (deterministic seed = 42)
-python3 _generators/generate_datasets.py
-
-# 2. Rebuild the Excel engine
-python3 _generators/build_fpa_model.py
-
-# 3. Re-run the predictive demand model (Python)
-python3 Predictive_Demand_Model/demand_forecast.py
-
-# OR — run the R version (matches the CV)
-Rscript Predictive_Demand_Model/demand_forecast.R
 ```
 
-## 9. Skills demonstrated
+## 8. Skills demonstrated
 
 | Skill                                | Evidence in this repo                                    |
 |--------------------------------------|----------------------------------------------------------|
@@ -172,6 +154,6 @@ Rscript Predictive_Demand_Model/demand_forecast.R
 
 ---
 
-## 10. Disclaimer
+## 9. Disclaimer
 
 Nova Leisure Group is a synthetic entity. All financial figures are illustrative. Macro figures are sourced from the references listed above as of the refresh date.
