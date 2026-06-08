@@ -156,19 +156,6 @@ python3 Predictive_Demand_Model/demand_forecast.py
 Rscript Predictive_Demand_Model/demand_forecast.R
 ```
 
-### First-time push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: init FP&A operational forecast engine"
-git branch -M main
-git remote add origin https://github.com/<your-username>/FPA-Commercial-Variance-Engine.git
-git push -u origin main
-```
-
----
-
 ## 9. Skills demonstrated
 
 | Skill                                | Evidence in this repo                                    |
